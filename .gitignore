@@ -16,3 +16,8 @@ Deca.iml
 # Temp files created by test.py
 test.lis
 test.res
+.DS_Store
+target/
+.antlr/
+*.ass
+jacoco.exec
